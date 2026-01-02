@@ -1,0 +1,4 @@
+streamlit~=1.52.2
+pytz~=2025.2
+bcrypt~=5.0.0
+streamlit_calendar~=1.4.0
